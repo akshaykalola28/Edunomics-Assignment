@@ -1,0 +1,2 @@
+rootProject.name='Edunomics Assignment'
+include ':app'
